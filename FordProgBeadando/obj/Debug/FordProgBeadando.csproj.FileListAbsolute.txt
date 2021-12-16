@@ -1,0 +1,70 @@
+C:\Users\bdavi\OneDrive\Desktop\BeadandoFord\FordProgBeadando\FordProgBeadando\bin\Debug\FordProgBeadando.exe.config
+C:\Users\bdavi\OneDrive\Desktop\BeadandoFord\FordProgBeadando\FordProgBeadando\bin\Debug\FordProgBeadando.exe
+C:\Users\bdavi\OneDrive\Desktop\BeadandoFord\FordProgBeadando\FordProgBeadando\bin\Debug\FordProgBeadando.pdb
+C:\Users\bdavi\OneDrive\Desktop\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.csprojAssemblyReference.cache
+C:\Users\bdavi\OneDrive\Desktop\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.Form1.resources
+C:\Users\bdavi\OneDrive\Desktop\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.Properties.Resources.resources
+C:\Users\bdavi\OneDrive\Desktop\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.csproj.GenerateResource.cache
+C:\Users\bdavi\OneDrive\Desktop\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.csproj.CoreCompileInputs.cache
+C:\Users\bdavi\OneDrive\Desktop\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.exe
+C:\Users\bdavi\OneDrive\Desktop\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.pdb
+C:\Users\prog\Desktop\BeadandoFord\FordProgBeadando\FordProgBeadando\bin\Debug\FordProgBeadando.exe.config
+C:\Users\prog\Desktop\BeadandoFord\FordProgBeadando\FordProgBeadando\bin\Debug\FordProgBeadando.exe
+C:\Users\prog\Desktop\BeadandoFord\FordProgBeadando\FordProgBeadando\bin\Debug\FordProgBeadando.pdb
+C:\Users\prog\Desktop\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.csprojAssemblyReference.cache
+C:\Users\prog\Desktop\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.Form1.resources
+C:\Users\prog\Desktop\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.Properties.Resources.resources
+C:\Users\prog\Desktop\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.csproj.GenerateResource.cache
+C:\Users\prog\Desktop\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.csproj.CoreCompileInputs.cache
+C:\Users\prog\Desktop\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.exe
+C:\Users\prog\Desktop\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.pdb
+D:\BeadandoFord\FordProgBeadando\FordProgBeadando\bin\Debug\FordProgBeadando.exe.config
+D:\BeadandoFord\FordProgBeadando\FordProgBeadando\bin\Debug\FordProgBeadando.exe
+D:\BeadandoFord\FordProgBeadando\FordProgBeadando\bin\Debug\FordProgBeadando.pdb
+D:\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.csprojAssemblyReference.cache
+D:\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.Form1.resources
+D:\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.Properties.Resources.resources
+D:\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.csproj.GenerateResource.cache
+D:\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.csproj.CoreCompileInputs.cache
+D:\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.exe
+D:\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.pdb
+D:\EKE\fordprog\VEGLEGESVEGLEGESBEADANDO\BeadandoFord\FordProgBeadando\FordProgBeadando\bin\Debug\FordProgBeadando.exe.config
+D:\EKE\fordprog\VEGLEGESVEGLEGESBEADANDO\BeadandoFord\FordProgBeadando\FordProgBeadando\bin\Debug\FordProgBeadando.exe
+D:\EKE\fordprog\VEGLEGESVEGLEGESBEADANDO\BeadandoFord\FordProgBeadando\FordProgBeadando\bin\Debug\FordProgBeadando.pdb
+D:\EKE\fordprog\VEGLEGESVEGLEGESBEADANDO\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.csprojAssemblyReference.cache
+D:\EKE\fordprog\VEGLEGESVEGLEGESBEADANDO\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.Form1.resources
+D:\EKE\fordprog\VEGLEGESVEGLEGESBEADANDO\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.Properties.Resources.resources
+D:\EKE\fordprog\VEGLEGESVEGLEGESBEADANDO\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.csproj.GenerateResource.cache
+D:\EKE\fordprog\VEGLEGESVEGLEGESBEADANDO\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.csproj.CoreCompileInputs.cache
+D:\EKE\fordprog\VEGLEGESVEGLEGESBEADANDO\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.exe
+D:\EKE\fordprog\VEGLEGESVEGLEGESBEADANDO\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.pdb
+C:\suli\forditoprogramok\Beadando\BeadandoFord\FordProgBeadando\FordProgBeadando\bin\Debug\FordProgBeadando.exe.config
+C:\suli\forditoprogramok\Beadando\BeadandoFord\FordProgBeadando\FordProgBeadando\bin\Debug\FordProgBeadando.exe
+C:\suli\forditoprogramok\Beadando\BeadandoFord\FordProgBeadando\FordProgBeadando\bin\Debug\FordProgBeadando.pdb
+C:\suli\forditoprogramok\Beadando\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.csprojAssemblyReference.cache
+C:\suli\forditoprogramok\Beadando\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.Form1.resources
+C:\suli\forditoprogramok\Beadando\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.Properties.Resources.resources
+C:\suli\forditoprogramok\Beadando\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.csproj.GenerateResource.cache
+C:\suli\forditoprogramok\Beadando\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.csproj.CoreCompileInputs.cache
+C:\suli\forditoprogramok\Beadando\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.exe
+C:\suli\forditoprogramok\Beadando\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.pdb
+C:\Users\Martin\Desktop\eke2019\fordító programok\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.exe
+C:\Users\Martin\Desktop\eke2019\fordító programok\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.pdb
+C:\Users\Martin\Desktop\eke2019\fordító programok\BeadandoFord\FordProgBeadando\FordProgBeadando\bin\Debug\FordProgBeadando.exe.config
+C:\Users\Martin\Desktop\eke2019\fordító programok\BeadandoFord\FordProgBeadando\FordProgBeadando\bin\Debug\FordProgBeadando.exe
+C:\Users\Martin\Desktop\eke2019\fordító programok\BeadandoFord\FordProgBeadando\FordProgBeadando\bin\Debug\FordProgBeadando.pdb
+C:\Users\Martin\Desktop\eke2019\fordító programok\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\eke2019\fordító programok\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.Form1.resources
+C:\Users\Martin\Desktop\eke2019\fordító programok\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.Properties.Resources.resources
+C:\Users\Martin\Desktop\eke2019\fordító programok\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.csproj.GenerateResource.cache
+C:\Users\Martin\Desktop\eke2019\fordító programok\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.csproj.CoreCompileInputs.cache
+X:\Fish PC\Desktop\fordító programok\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.csprojAssemblyReference.cache
+X:\Fish PC\Desktop\fordító programok\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.exe
+X:\Fish PC\Desktop\fordító programok\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.pdb
+X:\Fish PC\Desktop\fordító programok\BeadandoFord\FordProgBeadando\FordProgBeadando\bin\Debug\FordProgBeadando.exe.config
+X:\Fish PC\Desktop\fordító programok\BeadandoFord\FordProgBeadando\FordProgBeadando\bin\Debug\FordProgBeadando.exe
+X:\Fish PC\Desktop\fordító programok\BeadandoFord\FordProgBeadando\FordProgBeadando\bin\Debug\FordProgBeadando.pdb
+X:\Fish PC\Desktop\fordító programok\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.Form1.resources
+X:\Fish PC\Desktop\fordító programok\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.Properties.Resources.resources
+X:\Fish PC\Desktop\fordító programok\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.csproj.GenerateResource.cache
+X:\Fish PC\Desktop\fordító programok\BeadandoFord\FordProgBeadando\FordProgBeadando\obj\Debug\FordProgBeadando.csproj.CoreCompileInputs.cache

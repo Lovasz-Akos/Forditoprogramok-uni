@@ -1,0 +1,12 @@
++;*;(;);i;#;
+E;error;error;(TE',1);error;(TE',1);error
+E';(+TE',2);error;error;($,3);error;($,3)
+T;error;error;(*FT',4);error;(FT',4);error
+T';($,6);(*FT',5);error;($,6);error;($,6)
+F;error;error;((E),7);error;(i,8);error
++;pop;error;error;error;error;error
+*;error;pop;error;error;error;error
+(;error;error;pop;error;error;error
+);error;error;error;pop;error;error
+i;error;error;error;error;pop;error
+#;error;error;error;error;error;elfogad
