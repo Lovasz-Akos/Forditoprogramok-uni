@@ -1,1 +1,2 @@
-Forditoprogramok-uni
+# Forditoprogramok-uni
+Fordíróprogramok beadandó program
